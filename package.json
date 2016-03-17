@@ -1,0 +1,31 @@
+{
+  "name": "twilio-thinqlcr-node",
+  "version": "1.0.0",
+  "description": "Twilio Wrapper NodeJS Library For thinQ LCR integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinqinc/twilio-thinQLCR-node.git"
+  },
+  "keywords": [
+    "twilio",
+    "wrapper",
+    "library",
+    "thinq"
+  ],
+  "author": {
+    "name": "thinQ",
+    "email": "info@thinq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinqinc/twilio-thinQLCR-node/issues"
+  },
+  "homepage": "https://github.com/thinqinc/twilio-thinQLCR-node#readme",
+  "dependencies": {
+    "twilio": "^2.3.0"
+  }
+}
